@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e0776aa6-91f9-41c3-bbf1-792b6d0250bb)
 
 
-<h1 align="center">Hi 👋, I'm Rayyan Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ghost Coder</h1>
 <h3 align="center">A passionate AI Machine Learning Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/samarjit-sahoo/samarjit-sahoo/main/assets/coding.gif">
