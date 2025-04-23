@@ -52,9 +52,3 @@
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyanahmed&show_icons=true&locale=en&layout=compact" alt="rayyanahmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayyanahmed&show_icons=true&locale=en" alt="rayyanahmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayyanahmed&" alt="rayyanahmed" /></p>
